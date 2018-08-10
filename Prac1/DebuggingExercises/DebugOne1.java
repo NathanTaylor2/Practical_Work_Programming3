@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Prac1.DebuggingExercises;
 
 public class DebugOne1 {
 

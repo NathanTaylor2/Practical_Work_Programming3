@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package Prac1.ProgrammingExercises;
 
 public class FavoriteSong {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package Prac1.ProgrammingExercises;
 
 public class TableAndChairs {
     public static void main(String[] args)

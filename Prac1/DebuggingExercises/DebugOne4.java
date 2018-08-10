@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package Prac1.DebuggingExercises;
 
 import javax.swing.JOptionPane;
 public class DebugOne4 {

@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package Prac1.ProgrammingExercises;
 
 import javax.swing.*;
 
